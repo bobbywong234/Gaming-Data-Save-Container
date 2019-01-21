@@ -5,6 +5,4 @@ and use binaryformate in system.io to output saving data file <br/>
 if you have anthing want to add up, PLEASE LEAVE THE COMMENT! <br/>
 Thank you<br/>
 
-Example code : <br/>
-
  
